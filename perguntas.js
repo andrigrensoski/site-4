@@ -1,33 +1,33 @@
 criaCartao(
-    'Programação',
-    'o que acontece no final do livro uma segunda chance?',
+    'Uma segunda chance',
+    'O que acontece no final do livro uma segunda chance?',
     'Kenna Rowan retorna à cidade onde tudo deu errado após passar cinco anos na prisão'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O ceifador',
+    'O ceifador de Neal Shusterman conta que?',
+    'Um mundo onde a humanidade venceu a morte e a população cresce sem limites'
 )
 
 criaCartao(
-    'Programação',
-    'para qual cidade Lilly Bloom se muda após a morte de seu pai?',
+    'É assim que acaba',
+    'Para qual cidade Lilly Bloom se muda após a morte de seu pai?',
     'Boston'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Pessoas normais',
+    'Sobre o que trata o livro?',
+    'Onde dois jovens devem enfrentar a eletricidade do primeiro amor em meio às sutilezas das classes sociais e dos problemas familiares'
 )
 criaCartao(
-    'Lingua inglesa',
-    'personagens principais do livro novembro 9?',
+    'Novembro 9',
+    'Personagens principais do livro novembro 9?',
     'Ben e Fallon'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Crepusculo',
+    'Qual é o personagem que reluzeia?',
+    'Edward Cullen'
 )
